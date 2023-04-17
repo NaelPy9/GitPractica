@@ -1,5 +1,5 @@
-package nttdata.javat1;
-import nttdata.javat1.game.*;
+package nttdata.javat;
+import nttdata.javat.game.*;
 /**
  * 
  * @author David

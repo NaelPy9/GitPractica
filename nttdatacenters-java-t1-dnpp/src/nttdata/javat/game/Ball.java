@@ -1,4 +1,4 @@
-package nttdata.javat1.game;
+package nttdata.javat.game;
 /**
  * 
  * @author David
