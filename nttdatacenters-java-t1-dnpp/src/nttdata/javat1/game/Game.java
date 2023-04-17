@@ -1,5 +1,4 @@
 package nttdata.javat1.game;
-
 import java.util.Random;
 import java.util.Scanner;
 
