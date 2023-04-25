@@ -1,0 +1,33 @@
+<configuration debug="true" scan="true"
+	scanPeriod="10 seconds">
+	<!-- SALIDA DE LOG -->
+	<appender name="consAp"
+		class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-4level %logger{32} - [%method] - %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<appender name="PersonalLog"
+		class="ch.qos.logback.core.ConsoleAppender">
+
+		<encoder
+			class="ch.qos.logback.core.encoder.LayoutWrappingEncoder">
+
+			<layout class="com.nttdata.logback.LoggerLayout">
+				<prefix>NTTDataLogback</prefix>
+				<printThreadName>true</printThreadName>
+			</layout>
+
+		</encoder>
+	</appender>
+	
+	<!-- ROOT LOGGER -->
+	<root level="debug">
+		<appender-ref ref="consAp" />
+	</root>
+	
+	<logger name="com.nttdata.logback.App.dnpp" level="debug" additivity="false">
+		<appender-ref ref="PersonalLog"/>
+	</logger>
+</configuration>
