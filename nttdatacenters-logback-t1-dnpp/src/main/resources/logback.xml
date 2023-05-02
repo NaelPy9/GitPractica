@@ -1,33 +1,51 @@
-<configuration debug="true" scan="true"
-	scanPeriod="10 seconds">
-	<!-- SALIDA DE LOG -->
-	<appender name="consAp"
-		class="ch.qos.logback.core.ConsoleAppender">
+<configuration debug="true" packagingData="false">
+	
+	<!--Appender básico que usa un RollingFile-->
+	<appender name="default"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		
+		<!-- Configuracion basica y nombre del archivo-->
+		<file>./logs/logdnpp.log</file>
+		<append>true</append>
+		<immediateFlush>true</immediateFlush>
+		
+		<!-- Normas de como va a tratar el archivo-->
+		<rollingPolicy
+			class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+			<fileNamePattern>./logs/PersonalLog.%i.log.zip</fileNamePattern>
+			<minIndex>1</minIndex>
+			<maxIndex>3</maxIndex>
+		</rollingPolicy>
+		
+		<!-- Condiciones para cambiar de archivo-->
+		<triggeringPolicy
+			class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+			<maxFileSize>50KB</maxFileSize>
+		</triggeringPolicy>
+		
+		<!-- Patrón básico -->
 		<encoder>
-			<pattern>%d{HH:mm:ss.SSS} [%thread] %-4level %logger{32} - [%method] - %msg%n</pattern>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - [%method] - %msg%n</pattern>
 		</encoder>
 	</appender>
 	
-	<appender name="PersonalLog"
-		class="ch.qos.logback.core.ConsoleAppender">
-
+	<!-- Appender personalizado con colores-->
+	<appender name="PersonalLog" class="ch.qos.logback.core.ConsoleAppender">
 		<encoder
 			class="ch.qos.logback.core.encoder.LayoutWrappingEncoder">
-
+			<!-- Layout personalizado-->
 			<layout class="com.nttdata.logback.LoggerLayout">
 				<prefix>NTTDataLogback</prefix>
 				<printThreadName>true</printThreadName>
 			</layout>
-
+			<charset>utf-8</charset>
 		</encoder>
 	</appender>
 	
-	<!-- ROOT LOGGER -->
-	<root level="debug">
-		<appender-ref ref="consAp" />
-	</root>
 	
-	<logger name="com.nttdata.logback.App.dnpp" level="debug" additivity="false">
+	<!-- Logger personalizado, distinto a Root-->
+	<logger name="Warrior" level="debug">
 		<appender-ref ref="PersonalLog"/>
+		<appender-ref ref="default" />
 	</logger>
 </configuration>

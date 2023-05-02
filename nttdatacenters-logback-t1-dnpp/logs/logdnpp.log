@@ -1,0 +1,183 @@
+14:09:24.013 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:09:25.842 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:09:27.026 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:09:30.463 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:09:31.909 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:09:32.761 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:09:33.279 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.280 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:09:33.281 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:09:33.281 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.281 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.282 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.282 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.282 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.284 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.284 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.284 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.285 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.285 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.285 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.285 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.285 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.286 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.286 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.286 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.286 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.286 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.287 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.287 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.287 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.288 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.288 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.289 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.289 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:09:33.289 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.290 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.290 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.290 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.290 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.290 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.291 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.291 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:09:33.291 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:09:33.291 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.291 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.291 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.293 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.293 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.293 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.294 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.294 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.295 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.295 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.295 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.295 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.295 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.295 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.295 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.296 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:09:33.296 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:09:33.296 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:09:33.296 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:24.577 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:10:25.806 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:10:26.608 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:10:31.101 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:10:32.157 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:10:33.711 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:10:34.355 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.356 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.356 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.356 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.356 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.358 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.358 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.358 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.358 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.359 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.359 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.360 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.360 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.360 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:10:34.360 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:10:34.360 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.361 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.361 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.362 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.362 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.362 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:10:34.362 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:10:34.363 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.363 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.363 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.363 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.364 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.364 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.364 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.365 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.365 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.365 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.365 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.365 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:10:34.367 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:10:34.367 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.367 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.367 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.367 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.367 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.368 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.368 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.368 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.369 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.369 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.369 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.369 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.369 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.369 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.371 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.371 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:10:34.371 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.371 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:10:34.372 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:10:34.372 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.372 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.372 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.372 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:10:34.373 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:10:34.373 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:10:34.373 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:25.293 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:11:26.940 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:11:27.942 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:11:31.931 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:11:33.254 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:11:34.414 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
+14:11:34.968 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.970 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.970 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:11:34.971 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.971 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.971 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:11:34.971 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.972 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.972 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.972 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.973 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.973 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:11:34.973 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.973 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.974 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.974 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.974 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.974 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.975 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.975 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.975 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.975 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.975 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.975 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.977 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.977 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:11:34.977 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:11:34.977 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.978 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.978 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:11:34.978 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:11:34.978 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.979 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.979 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.979 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:11:34.980 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.980 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.980 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.981 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.981 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.981 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+14:11:34.981 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.982 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
+14:11:34.982 [main] INFO  Warrior - [fight] - Guerrero A golpeo
+14:11:34.982 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
+14:11:34.983 [main] INFO  Warrior - [hit] - Dio golpe critico
+14:11:34.983 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
+14:11:34.983 [main] INFO  Warrior - [fight] - Guerrero B golpeo
