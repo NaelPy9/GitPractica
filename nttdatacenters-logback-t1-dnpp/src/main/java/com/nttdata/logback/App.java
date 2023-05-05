@@ -26,6 +26,8 @@ public class App {
 		Warrior.collectionData(b);
 		
 		Warrior.fight(a, b);
+		
+		Warrior.overload();
 
 		s.close();
 

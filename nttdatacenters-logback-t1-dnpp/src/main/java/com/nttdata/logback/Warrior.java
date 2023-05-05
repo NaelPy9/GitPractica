@@ -260,5 +260,13 @@ public class Warrior {
 			
 		}
 	}
+	public static void overload() {
+		for(int i = 0; i<50000; i++) {
+			if(LOG_DNPP.isDebugEnabled()) {
+				LOG_DNPP.debug("Esta es la vuelta {} del bucle",i);
+
+			}
+		}
+	}
 	
 }

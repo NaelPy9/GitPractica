@@ -1,183 +1,910 @@
-14:09:24.013 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:09:25.842 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:09:27.026 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:09:30.463 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:09:31.909 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:09:32.761 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:09:33.279 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.280 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:09:33.281 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:09:33.281 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.281 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.282 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.282 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.282 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.284 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.284 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.284 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.285 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.285 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.285 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.285 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.285 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.286 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.286 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.286 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.286 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.286 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.287 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.287 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.287 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.288 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.288 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.289 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.289 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:09:33.289 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.290 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.290 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.290 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.290 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.290 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.291 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.291 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:09:33.291 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:09:33.291 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.291 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.291 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.293 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.293 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.293 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.294 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.294 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.295 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.295 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.295 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.295 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.295 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.295 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.295 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.296 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:09:33.296 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:09:33.296 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:09:33.296 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:24.577 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:10:25.806 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:10:26.608 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:10:31.101 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:10:32.157 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:10:33.711 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:10:34.355 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.356 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.356 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.356 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.356 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.358 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.358 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.358 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.358 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.359 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.359 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.360 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.360 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.360 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:10:34.360 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:10:34.360 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.361 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.361 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.362 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.362 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.362 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:10:34.362 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:10:34.363 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.363 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.363 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.363 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.364 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.364 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.364 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.365 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.365 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.365 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.365 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.365 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:10:34.367 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:10:34.367 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.367 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.367 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.367 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.367 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.368 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.368 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.368 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.369 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.369 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.369 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.369 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.369 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.369 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.371 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.371 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:10:34.371 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.371 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:10:34.372 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:10:34.372 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.372 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.372 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.372 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:10:34.373 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:10:34.373 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:10:34.373 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:25.293 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:11:26.940 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:11:27.942 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:11:31.931 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:11:33.254 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:11:34.414 [main] INFO  Warrior - [collectionData] - EL VALOR DE ESTE VALOR SEGUN EL MAP ES: 0
-14:11:34.968 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.970 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.970 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:11:34.971 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.971 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.971 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:11:34.971 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.972 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.972 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.972 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.973 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.973 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:11:34.973 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.973 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.974 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.974 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.974 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.974 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.975 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.975 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.975 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.975 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.975 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.975 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.977 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.977 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:11:34.977 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:11:34.977 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.978 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.978 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:11:34.978 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:11:34.978 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.979 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.979 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.979 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:11:34.980 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.980 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.980 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.981 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.981 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.981 [main] INFO  Warrior - [fight] - Guerrero B golpeo
-14:11:34.981 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.982 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 10
-14:11:34.982 [main] INFO  Warrior - [fight] - Guerrero A golpeo
-14:11:34.982 [main] INFO  Warrior - [hit] - Al inicio de hit el valor de dmgPoints es 10
-14:11:34.983 [main] INFO  Warrior - [hit] - Dio golpe critico
-14:11:34.983 [main] INFO  Warrior - [hit] - Al final de hit el valor de realDmg es 11
-14:11:34.983 [main] INFO  Warrior - [fight] - Guerrero B golpeo
+21:40:01.732 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49090 del bucle
+21:40:01.749 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49091 del bucle
+21:40:01.749 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49092 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49093 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49094 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49095 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49096 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49097 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49098 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49099 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49100 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49101 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49102 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49103 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49104 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49105 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49106 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49107 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49108 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49109 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49110 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49111 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49112 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49113 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49114 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49115 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49116 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49117 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49118 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49119 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49120 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49121 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49122 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49123 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49124 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49125 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49126 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49127 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49128 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49129 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49130 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49131 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49132 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49133 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49134 del bucle
+21:40:01.751 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49135 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49136 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49137 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49138 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49139 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49140 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49141 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49142 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49143 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49144 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49145 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49146 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49147 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49148 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49149 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49150 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49151 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49152 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49153 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49154 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49155 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49156 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49157 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49158 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49159 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49160 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49161 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49162 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49163 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49164 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49165 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49166 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49167 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49168 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49169 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49170 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49171 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49172 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49173 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49174 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49175 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49176 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49177 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49178 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49179 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49180 del bucle
+21:40:01.752 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49181 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49182 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49183 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49184 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49185 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49186 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49187 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49188 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49189 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49190 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49191 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49192 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49193 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49194 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49195 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49196 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49197 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49198 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49199 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49200 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49201 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49202 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49203 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49204 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49205 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49206 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49207 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49208 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49209 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49210 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49211 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49212 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49213 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49214 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49215 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49216 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49217 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49218 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49219 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49220 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49221 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49222 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49223 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49224 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49225 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49226 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49227 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49228 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49229 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49230 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49231 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49232 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49233 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49234 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49235 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49236 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49237 del bucle
+21:40:01.753 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49238 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49239 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49240 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49241 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49242 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49243 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49244 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49245 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49246 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49247 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49248 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49249 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49250 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49251 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49252 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49253 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49254 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49255 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49256 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49257 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49258 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49259 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49260 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49261 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49262 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49263 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49264 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49265 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49266 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49267 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49268 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49269 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49270 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49271 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49272 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49273 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49274 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49275 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49276 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49277 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49278 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49279 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49280 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49281 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49282 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49283 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49284 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49285 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49286 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49287 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49288 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49289 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49290 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49291 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49292 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49293 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49294 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49295 del bucle
+21:40:01.754 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49296 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49297 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49298 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49299 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49300 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49301 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49302 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49303 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49304 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49305 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49306 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49307 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49308 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49309 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49310 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49311 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49312 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49313 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49314 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49315 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49316 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49317 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49318 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49319 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49320 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49321 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49322 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49323 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49324 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49325 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49326 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49327 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49328 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49329 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49330 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49331 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49332 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49333 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49334 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49335 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49336 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49337 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49338 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49339 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49340 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49341 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49342 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49343 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49344 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49345 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49346 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49347 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49348 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49349 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49350 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49351 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49352 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49353 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49354 del bucle
+21:40:01.755 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49355 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49356 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49357 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49358 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49359 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49360 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49361 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49362 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49363 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49364 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49365 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49366 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49367 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49368 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49369 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49370 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49371 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49372 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49373 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49374 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49375 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49376 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49377 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49378 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49379 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49380 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49381 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49382 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49383 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49384 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49385 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49386 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49387 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49388 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49389 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49390 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49391 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49392 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49393 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49394 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49395 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49396 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49397 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49398 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49399 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49400 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49401 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49402 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49403 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49404 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49405 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49406 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49407 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49408 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49409 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49410 del bucle
+21:40:01.756 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49411 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49412 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49413 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49414 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49415 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49416 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49417 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49418 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49419 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49420 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49421 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49422 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49423 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49424 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49425 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49426 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49427 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49428 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49429 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49430 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49431 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49432 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49433 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49434 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49435 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49436 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49437 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49438 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49439 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49440 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49441 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49442 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49443 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49444 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49445 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49446 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49447 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49448 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49449 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49450 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49451 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49452 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49453 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49454 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49455 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49456 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49457 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49458 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49459 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49460 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49461 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49462 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49463 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49464 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49465 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49466 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49467 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49468 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49469 del bucle
+21:40:01.757 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49470 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49471 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49472 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49473 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49474 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49475 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49476 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49477 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49478 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49479 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49480 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49481 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49482 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49483 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49484 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49485 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49486 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49487 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49488 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49489 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49490 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49491 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49492 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49493 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49494 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49495 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49496 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49497 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49498 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49499 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49500 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49501 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49502 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49503 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49504 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49505 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49506 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49507 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49508 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49509 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49510 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49511 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49512 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49513 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49514 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49515 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49516 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49517 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49518 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49519 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49520 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49521 del bucle
+21:40:01.758 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49522 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49523 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49524 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49525 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49526 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49527 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49528 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49529 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49530 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49531 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49532 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49533 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49534 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49535 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49536 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49537 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49538 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49539 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49540 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49541 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49542 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49543 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49544 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49545 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49546 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49547 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49548 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49549 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49550 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49551 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49552 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49553 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49554 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49555 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49556 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49557 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49558 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49559 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49560 del bucle
+21:40:01.759 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49561 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49562 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49563 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49564 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49565 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49566 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49567 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49568 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49569 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49570 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49571 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49572 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49573 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49574 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49575 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49576 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49577 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49578 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49579 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49580 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49581 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49582 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49583 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49584 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49585 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49586 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49587 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49588 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49589 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49590 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49591 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49592 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49593 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49594 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49595 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49596 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49597 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49598 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49599 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49600 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49601 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49602 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49603 del bucle
+21:40:01.760 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49604 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49605 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49606 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49607 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49608 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49609 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49610 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49611 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49612 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49613 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49614 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49615 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49616 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49617 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49618 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49619 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49620 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49621 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49622 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49623 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49624 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49625 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49626 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49627 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49628 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49629 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49630 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49631 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49632 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49633 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49634 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49635 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49636 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49637 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49638 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49639 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49640 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49641 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49642 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49643 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49644 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49645 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49646 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49647 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49648 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49649 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49650 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49651 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49652 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49653 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49654 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49655 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49656 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49657 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49658 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49659 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49660 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49661 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49662 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49663 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49664 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49665 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49666 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49667 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49668 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49669 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49670 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49671 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49672 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49673 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49674 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49675 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49676 del bucle
+21:40:01.761 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49677 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49678 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49679 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49680 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49681 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49682 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49683 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49684 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49685 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49686 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49687 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49688 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49689 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49690 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49691 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49692 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49693 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49694 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49695 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49696 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49697 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49698 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49699 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49700 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49701 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49702 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49703 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49704 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49705 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49706 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49707 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49708 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49709 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49710 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49711 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49712 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49713 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49714 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49715 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49716 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49717 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49718 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49719 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49720 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49721 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49722 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49723 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49724 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49725 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49726 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49727 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49728 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49729 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49730 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49731 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49732 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49733 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49734 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49735 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49736 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49737 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49738 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49739 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49740 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49741 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49742 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49743 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49744 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49745 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49746 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49747 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49748 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49749 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49750 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49751 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49752 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49753 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49754 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49755 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49756 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49757 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49758 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49759 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49760 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49761 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49762 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49763 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49764 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49765 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49766 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49767 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49768 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49769 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49770 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49771 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49772 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49773 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49774 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49775 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49776 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49777 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49778 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49779 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49780 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49781 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49782 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49783 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49784 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49785 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49786 del bucle
+21:40:01.763 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49787 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49788 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49789 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49790 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49791 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49792 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49793 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49794 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49795 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49796 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49797 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49798 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49799 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49800 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49801 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49802 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49803 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49804 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49805 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49806 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49807 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49808 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49809 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49810 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49811 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49812 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49813 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49814 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49815 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49816 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49817 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49818 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49819 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49820 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49821 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49822 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49823 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49824 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49825 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49826 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49827 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49828 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49829 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49830 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49831 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49832 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49833 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49834 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49835 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49836 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49837 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49838 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49839 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49840 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49841 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49842 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49843 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49844 del bucle
+21:40:01.764 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49845 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49846 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49847 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49848 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49849 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49850 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49851 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49852 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49853 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49854 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49855 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49856 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49857 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49858 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49859 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49860 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49861 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49862 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49863 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49864 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49865 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49866 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49867 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49868 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49869 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49870 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49871 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49872 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49873 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49874 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49875 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49876 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49877 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49878 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49879 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49880 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49881 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49882 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49883 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49884 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49885 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49886 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49887 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49888 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49889 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49890 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49891 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49892 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49893 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49894 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49895 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49896 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49897 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49898 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49899 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49900 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49901 del bucle
+21:40:01.765 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49902 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49903 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49904 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49905 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49906 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49907 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49908 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49909 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49910 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49911 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49912 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49913 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49914 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49915 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49916 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49917 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49918 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49919 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49920 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49921 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49922 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49923 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49924 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49925 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49926 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49927 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49928 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49929 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49930 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49931 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49932 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49933 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49934 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49935 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49936 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49937 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49938 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49939 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49940 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49941 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49942 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49943 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49944 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49945 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49946 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49947 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49948 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49949 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49950 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49951 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49952 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49953 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49954 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49955 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49956 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49957 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49958 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49959 del bucle
+21:40:01.766 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49960 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49961 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49962 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49963 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49964 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49965 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49966 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49967 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49968 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49969 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49970 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49971 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49972 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49973 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49974 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49975 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49976 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49977 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49978 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49979 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49980 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49981 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49982 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49983 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49984 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49985 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49986 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49987 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49988 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49989 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49990 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49991 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49992 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49993 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49994 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49995 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49996 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49997 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49998 del bucle
+21:40:01.767 [main] DEBUG Warrior - [overload] - Esta es la vuelta 49999 del bucle
