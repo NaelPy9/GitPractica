@@ -81,6 +81,11 @@ public class ManagementServiceImpl implements ManagementServiceI {
 	public static void delete(String key) {
 		if (ManagementServiceImpl.getPeopleSystem().containsKey(key)) {
 			ManagementServiceImpl.getPeopleSystem().remove(key);
+			if (studentSystem.containsKey(key)) {
+				studentSystem.remove(key);
+			} else{
+				employeeSystem.remove(key);
+			}
 			System.out.println("Persona eliminada con exito");
 		} else {
 			System.err.println("Ese DNI no está registrado en el sistema");
